@@ -15,7 +15,9 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={`${styles.main} ${inter.className}`}>
-       <div>this is sample deployment nextjs</div>
+       <div>this is sample deployment nextjs
+        <h1>demo-deploy</h1>
+       </div>
       </main>
     </>
   )
