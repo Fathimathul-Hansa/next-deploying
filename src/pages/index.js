@@ -19,6 +19,7 @@ export default function Home() {
         <h1>demo-deploy</h1>
         <img src='https://upcode.in/wp-content/uploads/2025/04/Upcode-logo-green-1536x360.webp' width={300}/>
         <img src='https://upcode.in/wp-content/uploads/2025/04/Upcode-logo-green-1536x360.webp' width={500}/>
+        <h2>demo tooooo</h2>
 
        </div>
       </main>
