@@ -20,7 +20,8 @@ export default function Home() {
         <img src='https://upcode.in/wp-content/uploads/2025/04/Upcode-logo-green-1536x360.webp' width={300}/>
         <img src='https://upcode.in/wp-content/uploads/2025/04/Upcode-logo-green-1536x360.webp' width={500}/>
         <h2>demo tooooo</h2>
-        <h1>hii batch</h1>
+        <h1 >hii batch</h1>
+        <h6>batch.....going on</h6>
 
        </div>
       </main>
