@@ -17,8 +17,8 @@ export default function Home() {
       <main className={`${styles.main} ${inter.className}`}>
        <div>this is sample deployment nextjs
         <h1>demo-deploy</h1>
-        <img src='https://upcode.in/wp-content/uploads/2025/04/Upcode-logo-green-1536x360.webp' width={300}/>
-        <img src='https://upcode.in/wp-content/uploads/2025/04/Upcode-logo-green-1536x360.webp' width={500}/>
+        <img src='https://images.pexels.com/photos/35802444/pexels-photo-35802444.jpeg' width={300}/>
+        <img src='https://images.pexels.com/photos/37186779/pexels-photo-37186779.jpeg' width={500}/>
         <h2>demo tooooo</h2>
         <h1 >hii batch</h1>
         <h6>batch.....going on</h6>
