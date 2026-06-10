@@ -22,6 +22,7 @@ export default function Home() {
         <h2>demo tooooo</h2>
         <h1 >hii batch</h1>
         <h6>batch.....going on</h6>
+        <h6>batch.....going on...;..test</h6>
 
        </div>
       </main>
