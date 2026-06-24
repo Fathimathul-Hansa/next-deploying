@@ -23,6 +23,7 @@ export default function Home() {
         <h1 >hii batch</h1>
         <h6>batch.....going on</h6>
         <h6>batch.....going on...;..test-30</h6>
+        <h5>batch-30</h5>
 
        </div>
       </main>
